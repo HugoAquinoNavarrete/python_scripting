@@ -8,7 +8,7 @@ cantidad = 67
 # Monedas de 25 centavos: 2
 # Monedas de 10 centavos: 1
 # Monedas de 5 centavos: 1
-# Monedas de 1 centavo: 1
+# Monedas de 1 centavo: 2
 
 # Si lo pruebas con un valor de cantidad de 100 esto deberá aparecer:
 # Monedas de 25 centavos: 4
